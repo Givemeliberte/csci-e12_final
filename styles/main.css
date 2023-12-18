@@ -26,3 +26,11 @@
 .card-link-custom:hover {
     text-decoration: none; /* Remove underline on hover */
 }
+
+.card-text{
+    height: 7rem;
+}
+
+nav a{
+    text-decoration: none;
+}
