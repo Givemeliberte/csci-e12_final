@@ -17,3 +17,12 @@
     object-fit: cover;
     height: 10rem;
 }
+
+.card-link-custom {
+    color: inherit; /* Prevent the default blue color of hyperlinks */
+    text-decoration: none; /* Remove underline from links */
+}
+
+.card-link-custom:hover {
+    text-decoration: none; /* Remove underline on hover */
+}

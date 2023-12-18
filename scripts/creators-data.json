@@ -7,16 +7,18 @@
           "follower_count": "15,432",
           "engagement_rate": "2.3%",
           "profile": "Family friendly influencer from Denver Colorado. I have 2 wonderfully wacky kids and love to share our antics with the world",
-          "image": "../media/influencer2.png"
+          "image": "../media/influencer2.png",
+          "profileUrl": "../pages/influencer2.html"
         },
         {
           "name": "Jess Jacobos",
-          "handle": "beautyqueen",
+          "handle": "thehealthyyou",
           "location": "LA CA",
           "follower_count": "32,812",
           "engagement_rate": "4.3%",
-          "profile": "Lifestyle and beauty influencer from LA CA. I'm always on top of the best and latest trends and love to show off what is new in fashion.",
-          "image": "../media/influencer1.png"
+          "profile": "Health and fitness influencer from LA CA. Try to keep up if you can! I will show you all the best new workouts.",
+          "image": "../media/influencer1.png",
+          "profileUrl": "../pages/influencer1.html"
         },
         {
           "name": "who knows",
@@ -25,7 +27,8 @@
           "follower_count": "32,812",
           "engagement_rate": "4.3%",
           "profile": "Lifestyle and beauty influencer from LA CA. I'm always on top of the best and latest trends and love to show off what is new in fashion.",
-          "image": "../media/influencer3.png"
+          "image": "../media/influencer3.png",
+          "profileUrl": "../pages/influencer3.html"
         },
         {
           "name": "who knows",
@@ -34,7 +37,8 @@
           "follower_count": "32,812",
           "engagement_rate": "4.3%",
           "profile": "Lifestyle and beauty influencer from LA CA. I'm always on top of the best and latest trends and love to show off what is new in fashion.",
-          "image": "../media/influencer4.webp"
+          "image": "../media/influencer4.webp",
+          "profileUrl": "../pages/influencer4.html"
         },
         {
           "name": "why",
@@ -43,7 +47,8 @@
           "follower_count": "32,812",
           "engagement_rate": "4.3%",
           "profile": "Lifestyle and beauty influencer from LA CA. I'm always on top of the best and latest trends and love to show off what is new in fashion.",
-          "image": "../media/influencer5.webp"
+          "image": "../media/influencer5.webp",
+          "profileUrl": "../pages/influencer5.html"
         },
         {
           "name": "Jess Jacobos",
@@ -52,7 +57,8 @@
           "follower_count": "32,812",
           "engagement_rate": "4.3%",
           "profile": "Lifestyle and beauty influencer from LA CA. I'm always on top of the best and latest trends and love to show off what is new in fashion.",
-          "image": "../media/influencer6.webp"
+          "image": "../media/influencer6.webp",
+          "profileUrl": "../pages/influencer6.html"
         },
         {
           "name": "Jess Jacobos",
@@ -61,26 +67,8 @@
           "follower_count": "32,812",
           "engagement_rate": "4.3%",
           "profile": "Lifestyle and beauty influencer from LA CA. I'm always on top of the best and latest trends and love to show off what is new in fashion.",
-          "image": "../media/influencer7.webp"
-        },
-
-        {
-          "name": "Jess Jacobos",
-          "handle": "beautyqueen",
-          "location": "LA CA",
-          "follower_count": "32,812",
-          "engagement_rate": "4.3%",
-          "profile": "Lifestyle and beauty influencer from LA CA. I'm always on top of the best and latest trends and love to show off what is new in fashion.",
-          "image": "../media/influencer8.jpg"
-        },
-        {
-          "name": "Jess Jacobos",
-          "handle": "beautyqueen",
-          "location": "LA CA",
-          "follower_count": "32,812",
-          "engagement_rate": "4.3%",
-          "profile": "Lifestyle and beauty influencer from LA CA. I'm always on top of the best and latest trends and love to show off what is new in fashion.",
-          "image": "../media/influencer9.jpg"
+          "image": "../media/influencer7.webp",
+          "profileUrl": "../pages/influencer7.html"
         },
 
         {
@@ -90,7 +78,18 @@
           "follower_count": "32,812",
           "engagement_rate": "4.3%",
           "profile": "Lifestyle and beauty influencer from LA CA. I'm always on top of the best and latest trends and love to show off what is new in fashion.",
-          "image": "../media/influencer10.jpg"
+          "image": "../media/influencer8.jpg",
+          "profileUrl": "../pages/influencer8.html"
+        },
+        {
+          "name": "Jess Jacobos",
+          "handle": "beautyqueen",
+          "location": "LA CA",
+          "follower_count": "32,812",
+          "engagement_rate": "4.3%",
+          "profile": "Lifestyle and beauty influencer from LA CA. I'm always on top of the best and latest trends and love to show off what is new in fashion.",
+          "image": "../media/influencer9.jpg",
+          "profileUrl": "../pages/influencer9.html"
         },
 
         {
@@ -100,7 +99,8 @@
           "follower_count": "32,812",
           "engagement_rate": "4.3%",
           "profile": "Lifestyle and beauty influencer from LA CA. I'm always on top of the best and latest trends and love to show off what is new in fashion.",
-          "image": "../media/influencer11.jpg"
+          "image": "../media/influencer10.jpg",
+          "profileUrl": "../pages/influencer10.html"
         },
 
         {
@@ -110,7 +110,19 @@
           "follower_count": "32,812",
           "engagement_rate": "4.3%",
           "profile": "Lifestyle and beauty influencer from LA CA. I'm always on top of the best and latest trends and love to show off what is new in fashion.",
-          "image": "../media/influencer12.webp"
+          "image": "../media/influencer11.jpg",
+          "profileUrl": "../pages/influencer11.html"
+        },
+
+        {
+          "name": "Jess Jacobos",
+          "handle": "beautyqueen",
+          "location": "LA CA",
+          "follower_count": "32,812",
+          "engagement_rate": "4.3%",
+          "profile": "Lifestyle and beauty influencer from LA CA. I'm always on top of the best and latest trends and love to show off what is new in fashion.",
+          "image": "../media/influencer12.webp",
+          "profileUrl": "../pages/influencer12.html"
         }
 
       ]
