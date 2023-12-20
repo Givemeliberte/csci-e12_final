@@ -12,7 +12,7 @@ document.addEventListener('DOMContentLoaded', () => {
       // Password validation
       const passwordInput = document.getElementById('signupPassword');
       const passwordError = document.getElementById('passwordError');
-      // Example basic requirement: password length should be at least 6 characters
+      // Password length should be at least 6 characters
       if (passwordInput && passwordInput.value.length < 6) {
           passwordError.style.display = 'block';
           passwordInput.classList.add('is-invalid');
