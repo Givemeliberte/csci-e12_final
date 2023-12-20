@@ -35,7 +35,6 @@ for (let each_expandable_fieldset of expandable_fieldsets) {
               "input"
             );
           expandedOptions.required = true;
-          console.log(expandedOptions);
         }
       } else {
         ev.target.parentElement.parentElement.classList.add("hide-adjacent");
@@ -45,7 +44,6 @@ for (let each_expandable_fieldset of expandable_fieldsets) {
             "input"
           );
         expandedOptions.required = false;
-        console.log(expandedOptions);
       }
     }
   });
